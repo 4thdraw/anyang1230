@@ -10,7 +10,7 @@
  src/ <br>
    -student1(훈련생제공폴더 없으면 생성)/<br>
       -data.json<br>
-      -swiperbanner<br>
+      -swiperbanner/<br>
          -Banner.jsx<br>
          -banner.scss<br>
      
