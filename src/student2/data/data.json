@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "한국수소환경협회",
+    "subtitle": "Clean Energy, Sustainable Growth",
+    "story": "한국수소환경협회는 탄소중립 및 수소경제 전환을 위한 지속가능한 수소 생태계 구축을 선도합니다.",  
+    "image": "/banner/m_1.jpg",
+    "link": "/about"
+  },
+  {
+    "id": 2,
+    "title": "수소 저장 탱크 B",
+    "subtitle": "대용량 수소 저장 탱크, 용량 7000L",
+    "story":"한국수소환경협회는 탄소중립 및 수소경제 전환을 위한 지속가능한 수소 생태계 구축을 선도합니다.",
+    "image": "/banner/m_2.jpg",
+    "link": "/about"
+  },
+  {
+    "id": 3,
+    "title": "수소 저장 시설 C",
+    "subtitle": "연속 생산용 수소 저장 설비, 용량 10000L",
+    "story":"한국수소환경협회는 탄소중립 및 수소경제 전환을 위한 지속가능한 수소 생태계 구축을 선도합니다.",
+    "image": "/banner/m_3.jpg",
+    "link": "/about"
+  }
+]
