@@ -1,23 +1,17 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
-
+import Banner from './student2/Banner'
 
 import './index.css'
 import './scss/common.scss'
-
-import Hd from './layout/Hd'
-import Ft from './layout/Ft'
-import Content from './pages/Content'
 
 
 createRoot(document.getElementById('root')!).render(
   
   <StrictMode>
     <BrowserRouter>
-      <Hd />
-      <Content />
-      <Ft />
+      <Banner></Banner>
     </BrowserRouter>       
   </StrictMode>,
 )
