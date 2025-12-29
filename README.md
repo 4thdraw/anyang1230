@@ -7,10 +7,10 @@
        data.json을 swiper관리를 위한 data를 제작해주세요. 
 
 # 훈련생분들의 브런치내의 폴더파일구조
- src/ 
-   -student1(훈련생제공폴더 없으면 생성)/
-      -data.json
-      -swiperbanner
-         -Banner.jsx
-         -banner.scss
+ src/ <br>
+   -student1(훈련생제공폴더 없으면 생성)/<br>
+      -data.json<br>
+      -swiperbanner<br>
+         -Banner.jsx<br>
+         -banner.scss<br>
      
