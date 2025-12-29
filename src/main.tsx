@@ -5,19 +5,16 @@ import { BrowserRouter } from 'react-router-dom'
 
 import './index.css'
 import './scss/common.scss'
-
-import Hd from './layout/Hd'
-import Ft from './layout/Ft'
-import Content from './pages/Content'
+import Banner from './student1/Banner'
 
 
 createRoot(document.getElementById('root')!).render(
   
   <StrictMode>
     <BrowserRouter>
-      <Hd />
-      <Content />
-      <Ft />
+    <Banner>
+      
+    </Banner>
     </BrowserRouter>       
   </StrictMode>,
 )
